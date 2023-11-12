@@ -1,0 +1,2 @@
+[submodule "https://github.com/godotengine/godot-cpp.git"]
+	branch = 3.x
