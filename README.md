@@ -47,3 +47,7 @@ If you want to contribute to the project, please fork it and send a pull request
 ## License
 
 This project is licensed under the [MIT License](LICENSE). You can review the license file for detailed information.
+
+
+![image](https://github.com/tarikaydin16/gdnativeAstar/assets/46083980/b08169aa-06bf-466b-83a1-961e1b6d3a52)
+
