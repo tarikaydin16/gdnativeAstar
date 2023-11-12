@@ -1,3 +1,4 @@
+![image](https://github.com/tarikaydin16/gdnativeAstar/assets/46083980/b08169aa-06bf-466b-83a1-961e1b6d3a52)
 # Godot GDNative A* Algorithm Implementation
 
 This project is an example of implementing the A* algorithm in Godot using C++ and GDNative. The project is based on the A* algorithm implementation provided by [OneLoneCoder](https://github.com/OneLoneCoder).
@@ -49,5 +50,5 @@ If you want to contribute to the project, please fork it and send a pull request
 This project is licensed under the [MIT License](LICENSE). You can review the license file for detailed information.
 
 
-![image](https://github.com/tarikaydin16/gdnativeAstar/assets/46083980/b08169aa-06bf-466b-83a1-961e1b6d3a52)
+
 
