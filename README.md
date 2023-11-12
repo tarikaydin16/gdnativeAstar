@@ -12,7 +12,7 @@ The project is a GDNative example of the A* algorithm developed using C++ in the
 
 2. **Clone the Project**: Clone this repository to a local directory:
  ```console
-   git clone https://github.com/your-username/astar-gdnative-project.git
+   git clone https://github.com/tarikaydin16/gdnativeAstar.git
  ```
 3. **Open the Godot Project**: Open the `project.godot` file in the Godot Editor and load the project.
 
