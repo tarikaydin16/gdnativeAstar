@@ -1,2 +1,5 @@
-[submodule "https://github.com/godotengine/godot-cpp.git"]
+[submodule "godot-cpp"]
+	path = godot-cpp
 	branch = 3.x
+	url = https://github.com/godotengine/godot-cpp
+	
