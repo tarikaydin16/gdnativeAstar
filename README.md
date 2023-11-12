@@ -16,10 +16,15 @@ The project is a GDNative example of the A* algorithm developed using C++ in the
    git clone https://github.com/tarikaydin16/gdnativeAstar.git
  ```
 3. **Open the Godot Project**: Open the `project.godot` file in the Godot Editor and load the project.
+4. **Compiling C++ bindings**
+```console
+cd godot-cpp
+scons platform=<your platform> generate_bindings=yes
+cd ..
+ ```
+5. **Run the Project**: Run the project by clicking the "Run" button in the Godot Editor.
 
-4. **Run the Project**: Run the project by clicking the "Run" button in the Godot Editor.
-
-5. **Testing the A* Algorithm**: The project provides a user-friendly interface to visualize and test the A* algorithm. You can set the start and end points by holding the "Shift" and "Ctrl" keys, respectively. You can change the path by clicking on the map, and obstacles can be created by clicking with the mouse.
+6. **Testing the A* Algorithm**: The project provides a user-friendly interface to visualize and test the A* algorithm. You can set the start and end points by holding the "Shift" and "Ctrl" keys, respectively. You can change the path by clicking on the map, and obstacles can be created by clicking with the mouse.
 
 ## How to Play
 
