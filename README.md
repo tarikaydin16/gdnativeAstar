@@ -11,9 +11,9 @@ The project is a GDNative example of the A* algorithm developed using C++ in the
 1. **Install Godot Engine**: The project is compatible with the latest version of the Godot game engine. You can download and install Godot from the [official website](https://godotengine.org/).
 
 2. **Clone the Project**: Clone this repository to a local directory:
- ```bash
+ ```console
    git clone https://github.com/your-username/astar-gdnative-project.git
-
+ ```
 3. **Open the Godot Project**: Open the `project.godot` file in the Godot Editor and load the project.
 
 4. **Run the Project**: Run the project by clicking the "Run" button in the Godot Editor.
