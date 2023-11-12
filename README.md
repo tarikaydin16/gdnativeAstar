@@ -1,10 +1,10 @@
 # Godot GDNative A* Algorithm Implementation
 
-This project is an example of implementing the A* algorithm in Godot using C++ and GDNative. The project is based on the A* algorithm implementation provided by [alonecoder](https://github.com/alonecoder).
+This project is an example of implementing the A* algorithm in Godot using C++ and GDNative. The project is based on the A* algorithm implementation provided by [OneLoneCoder](https://github.com/OneLoneCoder).
 
 ## Project Summary
 
-The project is a GDNative example of the A* algorithm developed using C++ in the Godot game engine. The primary goal is to understand how to use GDNative in C++ and adapt the A* algorithm to Godot. The project is developed based on the A* algorithm implementation provided by [alonecoder](https://github.com/alonecoder).
+The project is a GDNative example of the A* algorithm developed using C++ in the Godot game engine. The primary goal is to understand how to use GDNative in C++ and adapt the A* algorithm to Godot. The project is developed based on the A* algorithm implementation provided by [OneLoneCoder](https://github.com/OneLoneCoder).
 
 ## How to Use
 
