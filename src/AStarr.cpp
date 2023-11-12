@@ -30,11 +30,11 @@ void AStarr::_process(float delta)
 		int nSelectedNodeX = pos.x;
 		int nSelectedNodeY = pos.y;//joy_btn->get_global_position().y / nNodeSize;
 		if (cells != nullptr) {
-			if (input->is_action_just_pressed("shift")) {
+			if (input->is_action_pressed("shift")) {
 			
 				nodeStart = &cells[nSelectedNodeY * int(size.x) + nSelectedNodeX];
 			}
-			else 	if (input->is_action_just_pressed("control")) {
+			else 	if (input->is_action_pressed("control")) {
 				nodeEnd = &cells[nSelectedNodeY * int(size.x) + nSelectedNodeX];
 
 			}
